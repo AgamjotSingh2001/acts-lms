@@ -1,2 +1,2 @@
 FROM httpd
-COPY index.hthml /usr/loacl/apache2/htdocs/
+COPY index.html /usr/loacl/apache2/htdocs/
